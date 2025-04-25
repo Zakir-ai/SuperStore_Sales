@@ -74,13 +74,12 @@ This visualization shows the **Sum of Sales by Order Date and State**, offering 
 
 ---
 
-## 📌 Conclusion
+## 🧠 Key Learnings
 
-This project demonstrates how interactive dashboards can help uncover key business insights from sales data. With visual analytics, decision-makers can understand trends, spot growth areas, and optimize performance.
+- Developed hands-on expertise in creating dynamic Power BI dashboards from raw datasets.
+- Gained practical experience in data modeling, transformation.
+- Understood how to apply interactive filters/slicers for customized data exploration.
+- Learned effective ways to visualize time-series and geographical data.
+- Improved dashboard design skills using consistent themes, layout, and user-friendly navigation.
 
 ---
-
-## 📬 Contact
-
-For feedback or queries: **yourname@example.com**
-
