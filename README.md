@@ -68,7 +68,7 @@ This visualization shows the **Sum of Sales by Order Date and State**, offering 
 ---
 
 ### 📊 Overall Dashboard Summary
-![Dashboard]([./DashBoard.png](https://github.com/Zakir-ai/SuperStore_Sales/blob/main/SS/DashBoard.png))
+![Dashboard]([./DashBoard.png](SS/DashBoard.png)
 
 This is the **Super Store Sales Dashboard** — a centralized place to track all the key metrics, pie charts, and trend lines that represent sales across various dimensions such as Region, Category, and Time.
 
