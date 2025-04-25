@@ -60,8 +60,8 @@ The dataset includes:
 ## 📸 Dashboard Preview
 
 
-### 📍 State-wise Sales Overview
-![State wise Sales] (SS/State wise Sales .png)
+### 📍 State-wise Sales Overview  
+![State wise Sales](SS/State%20wise%20Sales%20.png)
 
 This visualization shows the **Sum of Sales by Order Date and State**, offering a comprehensive view of how individual states have performed from 2019 to 2021.
 
