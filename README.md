@@ -60,7 +60,8 @@ The dataset includes:
 ## 📸 Dashboard Preview
 
 ### 📊 Overall Dashboard Summary  
-![Dashboard](./DashBoard.png)
+![Dashboard](SS/DashBoard.png)
+
 
 This is the **Super Store Sales Dashboard** — a centralized view to track all the key metrics, pie charts, and trend lines that represent sales across various dimensions such as **Region**, **Category**, and **Time**.
 
